@@ -14,4 +14,4 @@ todo is a php project used OOP concepts and mySql Database
 2) you can move task from todo to doing and from doing to done
 3) you can remove done tasks
 ## Skills
-OOP - PHP - mySql DB - sql
+OOP - PHP - mySql DB - sql - PDO
